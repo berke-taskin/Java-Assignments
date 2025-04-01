@@ -1,1 +1,2 @@
-Java Assignments using OOP (Object Oriented Programming) and Algorithms
+# Java Assignments
+Using OOP (Object Oriented Programming) and Algorithms
